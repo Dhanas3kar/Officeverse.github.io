@@ -134,7 +134,7 @@ Please adhere to the Code of Conduct and ensure your code follows the project's 
 For questions, bug reports, or feature requests, please open an issue on GitHub.
 🌟 Acknowledgments
 
-Built with ❤️ using vanilla web technologies.
+
 Inspired by sci-fi aesthetics and modern intranet designs.
 Icons provided by Font Awesome.
 Fonts sourced from Google Fonts.
