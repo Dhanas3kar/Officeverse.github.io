@@ -12,8 +12,7 @@ https://sowndarya2007.github.io/officeverse.in/
 OfficeVerse.io/
 │── index.html        🖇️ Main office page  
 │── style.css         🎨 Office theme styles  
-│── script.js         ⚡ Interactivity and logic  
-│── assets/           📂 Images, icons, fonts  
+│── script.js         ⚡ Interactivity and logic   
 │── README.md         📝 Documentation  
 
 ✨ Features
@@ -36,7 +35,7 @@ JavaScript (ES6) – Interactivity ⚡
 
 📸 Preview
 
-(Add a screenshot or GIF of the website here)
+
 
 🔧 Installation & Usage
 
