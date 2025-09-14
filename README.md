@@ -35,6 +35,8 @@ JavaScript (ES6) – Interactivity ⚡
 
 📸 Preview
 
+<img width="1850" height="1069" alt="image" src="https://github.com/user-attachments/assets/9b9251e1-e53c-490d-a9cb-573abd5c87df" />
+
 
 
 🔧 Installation & Usage
